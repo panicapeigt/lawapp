@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lawapp</string>
+    <string name="username">Usuario</string>
+    <string name="email">E-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="access">Ingresar</string>
+    <string name="login_title">Inicio de sesion</string>
+</resources>
